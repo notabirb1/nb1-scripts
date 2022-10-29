@@ -1,7 +1,6 @@
 # nb1-scripts
  A collection of scripts I have created, mainly for personal use.
 ## Current Scripts
----
 ## Aliases
 ### Open Directory (openDir)
 - Allows the user to set shortcuts to folders.
